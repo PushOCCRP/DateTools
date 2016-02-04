@@ -1,0 +1,89 @@
+/* Mühəndis tərəfindən şərh təmin olunmayıb. */
+"%d days ago" = "%d days ago";
+
+/* Mühəndis tərəfindən şərh təmin olunmayıb. */
+"%d hours ago" = "%d saat qabaq";
+
+/* Mühəndis tərəfindən şərh təmin olunmayıb. */
+"%d minutes ago" = "%d dəqiqə qabaq";
+
+/* Mühəndis tərəfindən şərh təmin olunmayıb. */
+"%d months ago" = "%d ay qabaq";
+
+/* Mühəndis tərəfindən şərh təmin olunmayıb. */
+"%d seconds ago" = "%d saniyə qabaq";
+
+/* Mühəndis tərəfindən şərh təmin olunmayıb. */
+"%d weeks ago" = "%d həftə qabaq";
+
+/* Mühəndis tərəfindən şərh təmin olunmayıb. */
+"%d years ago" = "%d il qabaq";
+
+/* Mühəndis tərəfindən şərh təmin olunmayıb. */
+"A minute ago" = "Bir dəqiqə qabaq";
+
+/* Mühəndis tərəfindən şərh təmin olunmayıb. */
+"An hour ago" = "Bir saat qabaq";
+
+/* Mühəndis tərəfindən şərh təmin olunmayıb. */
+"Just now" = "İndicə";
+
+/* Mühəndis tərəfindən şərh təmin olunmayıb. */
+"Last month" = "Keçən ay";
+
+/* Mühəndis tərəfindən şərh təmin olunmayıb. */
+"Last week" = "Keçən həftə";
+
+/* Mühəndis tərəfindən şərh təmin olunmayıb. */
+"Last year" = "Keçən il";
+
+/* Mühəndis tərəfindən şərh təmin olunmayıb. */
+"Yesterday" = "Dünən";
+
+/* Mühəndis tərəfindən şərh təmin olunmayıb. */
+"1 year ago" = "Bir il qabaq";
+
+/* Mühəndis tərəfindən şərh təmin olunmayıb. */
+"1 month ago" = "Bir ay qabaq";
+
+/* Mühəndis tərəfindən şərh təmin olunmayıb. */
+"1 week ago" = "Bir həftə qabaq";
+
+/* Mühəndis tərəfindən şərh təmin olunmayıb. */
+"1 day ago" = "Bir gün qabaq";
+
+/* Mühəndis tərəfindən şərh təmin olunmayıb. */
+"1 hour ago" = "Bir saat qabaq";
+
+/* Mühəndis tərəfindən şərh təmin olunmayıb. */
+"1 minute ago" = "Bir dəqiqə qabaq";
+
+/* Mühəndis tərəfindən şərh təmin olunmayıb. */
+"1 second ago" = "Bir saniyə qabaq";
+
+/* Mühəndis tərəfindən şərh təmin olunmayıb. */
+"This morning" = "Bu səhər";
+
+/* Mühəndis tərəfindən şərh təmin olunmayıb. */
+"This afternoon" = "Bu günorta";
+
+/* Mühəndis tərəfindən şərh təmin olunmayıb. */
+"Today" = "Bu gün";
+
+/* Mühəndis tərəfindən şərh təmin olunmayıb. */
+"This week" = "Bu həftə";
+
+/* Mühəndis tərəfindən şərh təmin olunmayıb. */
+"This month" = "Bu ay";
+
+/* Mühəndis tərəfindən şərh təmin olunmayıb. */
+"This year" = "Bu il";
+
+/* Qısa formatı */
+"%dy" = "%dy"; // il
+"%dM" = "%dM"; // ay
+"%dw" = "%dw"; // həftə
+"%dd" = "%dd"; // gün
+"%dh" = "%dh"; // saat
+"%dm" = "%dm"; // dəqiqə
+"%ds" = "%ds"; // saniyə
