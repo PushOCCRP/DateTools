@@ -1,0 +1,89 @@
+/* No comment provided by engineer. */
+"%d days ago" = "Prije %d dana";
+
+/* No comment provided by engineer. */
+"%d hours ago" = "Prije %d sati";
+
+/* No comment provided by engineer. */
+"%d minutes ago" = "Prije %d minuta";
+
+/* No comment provided by engineer. */
+"%d months ago" = "Prije %d mjeseci";
+
+/* No comment provided by engineer. */
+"%d seconds ago" = "Prije %d sekundi";
+
+/* No comment provided by engineer. */
+"%d weeks ago" = "Prije %d sedmica";
+
+/* No comment provided by engineer. */
+"%d years ago" = "Prije %d godina";
+
+/* No comment provided by engineer. */
+"A minute ago" = "Prije minute";
+
+/* No comment provided by engineer. */
+"An hour ago" = "Prošlog sata";
+
+/* No comment provided by engineer. */
+"Just now" = "Maloprije objavljeno";
+
+/* No comment provided by engineer. */
+"Last month" = "Prošlog mjeseca";
+
+/* No comment provided by engineer. */
+"Last week" = "Prošle sedmice";
+
+/* No comment provided by engineer. */
+"Last year" = "Prošle godine";
+
+/* No comment provided by engineer. */
+"Yesterday" = "Juče";
+
+/* No comment provided by engineer. */
+"1 year ago" = "Prije godinu dana";
+
+/* No comment provided by engineer. */
+"1 month ago" = "Prije mjesec dana";
+
+/* No comment provided by engineer. */
+"1 week ago" = "Prije sedam dana";
+
+/* No comment provided by engineer. */
+"1 day ago" = "Juče";
+
+/* No comment provided by engineer. */
+"1 hour ago" = "Prije sat vremena";
+
+/* No comment provided by engineer. */
+"1 minute ago" = "Prije jedne minute";
+
+/* No comment provided by engineer. */
+"1 second ago" = "Prije jedne sekunde";
+
+/* No comment provided by engineer. */
+"This morning" = "Ovog jutra";
+
+/* No comment provided by engineer. */
+"This afternoon" = "Ovog popodneva";
+
+/* No comment provided by engineer. */
+"Today" = "Danas";
+
+/* No comment provided by engineer. */
+"This week" = "Ove sedmice";
+
+/* No comment provided by engineer. */
+"This month" = "Ovog mjeseca";
+
+/* No comment provided by engineer. */
+"This year" = "Ove godine";
+
+/* Short format for */
+"%dy" = "%dg"; // year
+"%dM" = "%dm"; // month
+"%dw" = "%ds"; // week
+"%dd" = "%dd"; // day
+"%dh" = "%ds"; // hour
+"%dm" = "%dm"; // minute
+"%ds" = "%ds"; // second

@@ -21,10 +21,12 @@
 // CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 #ifndef DateToolsLocalizedStrings
+#define DateToolsLocalizedStringsWithLanguageCode(key, languageCodeStringFileName) \
+NSLocalizedStringFromTableInBundle(key, @"DateTools", [NSBundle bundleWithPath:[[[[NSBundle bundleForClass:[DTError class]] resourcePath] stringByAppendingPathComponent:@"DateTools.bundle"] stringByAppendingPathComponent:languageCodeStringFileName]], nil)
 #define DateToolsLocalizedStrings(key) \
 NSLocalizedStringFromTableInBundle(key, @"DateTools", [NSBundle bundleWithPath:[[[NSBundle bundleForClass:[DTError class]] resourcePath] stringByAppendingPathComponent:@"DateTools.bundle"]], nil)
 #endif
-
+//NSString *path = [[NSBundle mainBundle] pathForResource:languageShortCode ofType:@"lproj"];
 #import <Foundation/Foundation.h>
 #import "DTConstants.h"
 

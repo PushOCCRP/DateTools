@@ -1,0 +1,89 @@
+/* No comment provided by engineer. */
+"%d days ago" = "Pre %d dana";
+
+/* No comment provided by engineer. */
+"%d hours ago" = "Pre %d sati";
+
+/* No comment provided by engineer. */
+"%d minutes ago" = "Pre %d minuta";
+
+/* No comment provided by engineer. */
+"%d months ago" = "Pre %d meseci";
+
+/* No comment provided by engineer. */
+"%d seconds ago" = "Pre %d sekundi";
+
+/* No comment provided by engineer. */
+"%d weeks ago" = "Pre %d nedelja";
+
+/* No comment provided by engineer. */
+"%d years ago" = "Pre %d godina";
+
+/* No comment provided by engineer. */
+"A minute ago" = "Pre minute";
+
+/* No comment provided by engineer. */
+"An hour ago" = "Prošlog sata";
+
+/* No comment provided by engineer. */
+"Just now" = "Malopre objavljeno";
+
+/* No comment provided by engineer. */
+"Last month" = "Prošlog meseca";
+
+/* No comment provided by engineer. */
+"Last week" = "Prošle nedelje";
+
+/* No comment provided by engineer. */
+"Last year" = "Prošle godine";
+
+/* No comment provided by engineer. */
+"Yesterday" = "Juče";
+
+/* No comment provided by engineer. */
+"1 year ago" = "Pre godinu dana";
+
+/* No comment provided by engineer. */
+"1 month ago" = "Pre mesec dana";
+
+/* No comment provided by engineer. */
+"1 week ago" = "Pre sedam dana";
+
+/* No comment provided by engineer. */
+"1 day ago" = "Juče";
+
+/* No comment provided by engineer. */
+"1 hour ago" = "Pre sat vremena";
+
+/* No comment provided by engineer. */
+"1 minute ago" = "Pre jedne minute";
+
+/* No comment provided by engineer. */
+"1 second ago" = "Pre jedne sekunde";
+
+/* No comment provided by engineer. */
+"This morning" = "Ovog jutra";
+
+/* No comment provided by engineer. */
+"This afternoon" = "Ovog popodneva";
+
+/* No comment provided by engineer. */
+"Today" = "Danas";
+
+/* No comment provided by engineer. */
+"This week" = "Ove sedmice";
+
+/* No comment provided by engineer. */
+"This month" = "Ovog meseca";
+
+/* No comment provided by engineer. */
+"This year" = "Ove godine";
+
+/* Short format for */
+"%dy" = "%dg"; // year
+"%dM" = "%dm"; // month
+"%dw" = "%ds"; // week
+"%dd" = "%dd"; // day
+"%dh" = "%ds"; // hour
+"%dm" = "%dm"; // minute
+"%ds" = "%ds"; // second
